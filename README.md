@@ -34,7 +34,8 @@ Online Retail Store dataset: The dataset used for this analysis is the ‘Online
 ### Data Cleaning/Preparation
   In the initial data preparation phase, I performed the following task:
 - Data loading and inspection.
-- To ensure my analysis is accurate and reliable I did the following:
+
+To ensure my analysis is accurate and reliable I did the following:
 1. Removed null values in ‘CustomerID’ field.
 2. Identified and removed extreme outliers in ‘Quantity’ and ‘UnitPrice’ fields that could skew my analysis.
 3. Formatted ‘InvoiceDate’, ‘Date’, ‘InvoiceNo’, ‘StockCode’, and ‘CustomerID’ fields.
@@ -44,7 +45,7 @@ Online Retail Store dataset: The dataset used for this analysis is the ‘Online
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the sales data to answer the following these key questions:
+EDA involved exploring the sales data to answer the following key questions:
 
 - What is the monthly trend of revenue?
 - Which months have faced the biggest increase? 
@@ -83,7 +84,7 @@ to generate the revenue.
 
 Based on the analysis, I recommend the following:
 
-- Seeing that sales increase in the last 4 months of the year, the CEO should plan campaigns for such months especially November.
+- Seeing that sales increase in the last 4 months of the year, the CEO should plan and execute campaigns for such months especially November.
 - The CEO should also expand operations in high-demand regions like the Netherlands, Ireland, Germany and France.
 - The CMO should target marketing efforts in top-performing regions like the Netherlands, Ireland, Germany and France
 - The CMO should develop customer retention strategies for high-revenue customers.
