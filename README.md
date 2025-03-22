@@ -26,6 +26,8 @@ Online Retail Store dataset: The dataset used for this analysis is the ‘Online
 
 ### Data Source
 The ‘Online Retail .xlsx’ dataset was provided by [Tata Group](https://en.wikipedia.org/wiki/Tata_Group) as part of my virtual internship, and all analyses were conducted adhering to the company’s data privacy policies
+
+
 ### Tools
 
 - Excel - Data Cleaning/Analysis
@@ -73,17 +75,18 @@ To answer the questions above I did the following:
 To prepare my dataset for visualization I did the following:
 - Loaded the dataset on power query editor in Power BI
 - Formatted ‘InvoiceDate’, ‘Date’, ‘InvoiceNo’, ‘StockCode’, and ‘CustomerID’ fields.
-- Loaded the manipulated dataset into Power BI
-- I excluded
+- Loaded the manipulated dataset into Power BI.
+- In Power BI I filtered the charts axes for top 10 countries by revenue generated and quantity demanded excluding United Kingdom.
+- I filtered the charts axes for top 10 customers by revenue generated
 
-  To visualize my analysis I used the following:
-  1. An area chart to show monthly revenue for January to December 2011.
-  2. A Side-by-side bar chart to show the top 10 countries by revenue and quantity demanded excluding United Kingdom.
-  3. A vertical bar chart to show the lop 10 customers by the revenue generated.
-  4. A treemap chart showing the quantity demanded by each country excluding United Kingdom.
+To visualize my analysis I used the following:
+- An area chart to show monthly revenue for January to December 2011.
+- A Side-by-side bar chart to show the top 10 countries by revenue and quantity demanded excluding United Kingdom.
+- A vertical bar chart to show the lop 10 customers by the revenue generated.
+- A treemap chart showing the quantity demanded by each country excluding United Kingdom.
 
-Here are the visuals 
-
+Here are the visuals:
+- [Power BI Visuals](https://github.com/RuthOgholi/Sales-Analysis-Project/blob/main/Online%20Retail%20Data%20Visuals.pbix)
 
 
 ### Results of Findings
