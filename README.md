@@ -16,19 +16,23 @@
 - [References](#references)
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the sales performance of an online retail store for a period of one year i.e 2011. By analyzing various aspects of the sales data, I sought to identify trends, make data driven recommendations, and gain a deeper understanding of the store’s lucrative opportunities that can be leveraged for expansion.
 
 ### Dataset Used
+---
 
 Online Retail Store dataset: The dataset used for this analysis is the ‘Online Retail .xlsx’ file, containing detailed information about each sale by the company.
 - [Dataset](https://github.com/RuthOgholi/Sales-Analysis-Project/blob/ac0e6ccc67b578e9db54fec09703ead3b55f627e/Online%20Retail%20Data%20Set.xlsx)
 
 ### Data Source
-The ‘Online Retail .xlsx’ dataset was provided by [Tata Group](https://en.wikipedia.org/wiki/Tata_Group) as part of my virtual internship, and all analyses were conducted adhering to the company’s data privacy policies
+---
+The ‘Online Retail .xlsx’ dataset was provided by [Tata Group](https://en.wikipedia.org/wiki/Tata_Group) as part of my virtual internship.
 
 
 ### Tools
+---
 
 - Excel - Data Cleaning/Analysis
   - [Download here](https://microsoft.com)
@@ -38,6 +42,7 @@ The ‘Online Retail .xlsx’ dataset was provided by [Tata Group](https://en.wi
 
 
 ### Data Cleaning/Preparation
+---
   In the initial data preparation phase, I performed the following task:
 - Data loading and inspection.
 
@@ -50,6 +55,7 @@ To ensure my analysis is accurate and reliable I did the following:
 6. Excluded rows where country was United Kingdom for questions requiring non-UK insights.
 
 ### Exploratory Data Analysis
+---
 
 EDA involved exploring the sales data to answer the following key questions:
 
@@ -61,6 +67,7 @@ EDA involved exploring the sales data to answer the following key questions:
 - Apart from the UK, which regions have the greatest demand for products?
 
 ### Data Analytics
+---
 
 To answer the questions above I did the following:
 
@@ -70,7 +77,8 @@ To answer the questions above I did the following:
 4. Manipulated the data in power query editor in Power BI
 5. Loaded the data to Power BI for visualization of my findings.
 
-### Data Visualization 
+### Data Visualization
+---
 
 To prepare my dataset for visualization I did the following:
 - Loaded the dataset on power query editor in Power BI
@@ -90,6 +98,7 @@ Here are the visuals:
 
 
 ### Results of Findings
+---
 
 The analysis results are summarized as follows:
 
@@ -101,6 +110,7 @@ to generate the revenue.
 
 
 ### Recommendations
+---
 
 Based on the analysis, I recommend the following:
 
@@ -111,6 +121,7 @@ Based on the analysis, I recommend the following:
 - The CMO should align marketing campaigns with seasonal trends to drive more revenue.
 
  ### Limitations
+ ---
 
 1. I had to remove all null values from ‘CustomerID’ field because they would affect the accuracy of my conclusion from the analysis.
 2. I excluded the UK where it was required for me to do so.
@@ -119,6 +130,7 @@ Based on the analysis, I recommend the following:
 5. I removed extreme outliers in ‘Quantity’ and ‘UnitPrice’ fields that could skew my analysis.
 
 ### References
+---
 
 - Chat GPT (https://chatgpt.com/?ref=dotcom)
 - 27 Business Success Metrics You Should Be Tracking (https://asana.com/resources/success-metrics-examples)
