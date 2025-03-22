@@ -84,7 +84,7 @@ To prepare my dataset for visualization I did the following:
 - Loaded the dataset on power query editor in Power BI
 - Formatted ‘InvoiceDate’, ‘Date’, ‘InvoiceNo’, ‘StockCode’, and ‘CustomerID’ fields.
 - Loaded the manipulated dataset into Power BI.
-- In Power BI I filtered the charts axes for top 10 countries by revenue generated and quantity demanded excluding United Kingdom.
+- In Power BI, I filtered the charts axes for top 10 countries by revenue generated and quantity demanded excluding United Kingdom.
 - I filtered the charts axes for top 10 customers by revenue generated
 
 To visualize my analysis I used the following:
