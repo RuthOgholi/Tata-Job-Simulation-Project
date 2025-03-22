@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Dataset Used](#dataset-used)
 - [Data Source](#data-source)
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
@@ -16,12 +17,15 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the sales performance of an online retail store for a period of one year. By analyzing various aspects of the sales data, I sought to identify trends, make data driven recommendations, and gain a deeper understanding of the store’s lucrative opportunities that can be leveraged for expansion.
+This data analysis project aims to provide insights into the sales performance of an online retail store for a period of one year i.e 2011. By analyzing various aspects of the sales data, I sought to identify trends, make data driven recommendations, and gain a deeper understanding of the store’s lucrative opportunities that can be leveraged for expansion.
 
-### Data Source
+### Dataset Used
 
 Online Retail Store dataset: The dataset used for this analysis is the ‘Online Retail .xlsx’ file, containing detailed information about each sale by the company.
+- [Dataset](https://github.com/RuthOgholi/Sales-Analysis-Project/blob/ac0e6ccc67b578e9db54fec09703ead3b55f627e/Online%20Retail%20Data%20Set.xlsx)
 
+### Data Source
+The ‘Online Retail .xlsx’ dataset was provided by [Tata Group](https://en.wikipedia.org/wiki/Tata_Group) as part of my virtual internship, and all analyses were conducted adhering to the company’s data privacy policies
 ### Tools
 
 - Excel - Data Cleaning/Analysis
@@ -61,11 +65,24 @@ To answer the questions above I did the following:
 1. Created a calculated column for ‘Revenue’ using Power Query editor in Excel.
 2. Converted the dataset to a table in Excel.
 3. Inserted a Pivot Table to summarize the data and answer each question.
-4. Manipulated the data in Power Query Editor in Power BI
+4. Manipulated the data in power query editor in Power BI
 5. Loaded the data to Power BI for visualization of my findings.
 
 ### Data Visualization 
 
+To prepare my dataset for visualization I did the following:
+- Loaded the dataset on power query editor in Power BI
+- Formatted ‘InvoiceDate’, ‘Date’, ‘InvoiceNo’, ‘StockCode’, and ‘CustomerID’ fields.
+- Loaded the manipulated dataset into Power BI
+- I excluded
+
+  To visualize my analysis I used the following:
+  1. An area chart to show monthly revenue for January to December 2011.
+  2. A Side-by-side bar chart to show the top 10 countries by revenue and quantity demanded excluding United Kingdom.
+  3. A vertical bar chart to show the lop 10 customers by the revenue generated.
+  4. A treemap chart showing the quantity demanded by each country excluding United Kingdom.
+
+Here are the visuals 
 
 
 
