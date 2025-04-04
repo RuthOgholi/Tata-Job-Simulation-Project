@@ -28,7 +28,7 @@ Online Retail Store dataset: The dataset used for this analysis is the ‘Online
 
 ### Data Source
 ---
-The ‘Online Retail .xlsx’ dataset was provided by [Tata Group](https://en.wikipedia.org/wiki/Tata_Group) as part of my virtual internship.
+The ‘Online Retail .xlsx’ dataset was provided by [Tata Group](https://en.wikipedia.org/wiki/Tata_Group) as part of my job simulation.
 
 
 ### Tools
