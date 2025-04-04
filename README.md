@@ -74,7 +74,7 @@ To answer the questions above I did the following:
 1. Created a calculated column for ‘Revenue’ using Power Query editor in Excel.
 2. Converted the dataset to a table in Excel.
 3. Inserted a Pivot Table to summarize the data and answer each question.
-4. Manipulated the data in power query editor in Power BI
+4. Manipulated the data in Power Query Editor in Power BI
 5. Loaded the data to Power BI for visualization of my findings.
 
 ### Data Visualization
